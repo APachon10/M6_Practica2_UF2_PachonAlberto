@@ -1,5 +1,5 @@
 package Ejercicios;
 
-public class Random {
+public class Conexion {
 
 }
